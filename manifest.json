@@ -1,0 +1,24 @@
+{
+  "name": "ouChess — Тактическая арена 1v1",
+  "short_name": "ouChess",
+  "description": "Соревновательная пошаговая арена 1v1: режимы Обычный 9×9 и Турбо 7×7",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#13111c",
+  "theme_color": "#13111c",
+  "icons": [
+    {
+      "src": "512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
